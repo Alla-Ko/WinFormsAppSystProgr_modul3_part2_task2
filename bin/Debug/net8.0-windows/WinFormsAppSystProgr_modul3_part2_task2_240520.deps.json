@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsAppSystProgr_modul3_part2_task2_240520/1.0.0": {
+        "runtime": {
+          "WinFormsAppSystProgr_modul3_part2_task2_240520.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppSystProgr_modul3_part2_task2_240520/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

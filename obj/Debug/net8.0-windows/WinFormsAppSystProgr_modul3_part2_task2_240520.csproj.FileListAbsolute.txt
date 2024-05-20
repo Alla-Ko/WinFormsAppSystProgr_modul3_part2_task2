@@ -1,0 +1,17 @@
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\bin\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.exe
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\bin\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.deps.json
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\bin\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.runtimeconfig.json
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\bin\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\bin\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.pdb
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.Res.resources
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.AssemblyInfoInputs.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.AssemblyInfo.cs
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\refint\WinFormsAppSystProgr_modul3_part2_task2_240520.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.pdb
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.genruntimeconfig.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\ref\WinFormsAppSystProgr_modul3_part2_task2_240520.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_modul3_part2_task2_240520\obj\Debug\net8.0-windows\WinFormsAppSystProgr_modul3_part2_task2_240520.Form1.resources
